@@ -1,0 +1,112 @@
+{
+    "antelope": {
+        "info": "Antelopes are fast-running mammals found mainly in Africa and Asia. They are known for their agility and ability to evade predators. They live in a variety of habitats, from savannas to forests.",
+        "lifespan": "10-25 years",
+        "diet": "Herbivore"
+    },
+    "badger": {
+        "info": "Badgers are nocturnal animals known for their digging abilities. They have strong forelimbs and live in burrows called setts. They are found in Europe, North America, and parts of Asia.",
+        "lifespan": "4-10 years",
+        "diet": "Carnivore"
+    },
+    "bat": {
+        "info": "Bats are the only mammals capable of sustained flight. They use echolocation to navigate and hunt at night. They play a critical role in pollination and controlling insect populations.",
+        "lifespan": "5-30 years",
+        "diet": "Varies (Herbivore, Carnivore)"
+    },
+    "bear": {
+        "info": "Bears are large, powerful mammals found in forests, mountains, and tundras. They have a strong sense of smell and can be omnivorous, eating plants, insects, and small animals.",
+        "lifespan": "20-30 years",
+        "diet": "Omnivore"
+    },
+    "beetle": {
+        "info": "Beetles are the largest group of insects, with over 350,000 species. They have a hard exoskeleton and come in a variety of shapes and sizes.",
+        "lifespan": "1-4 years",
+        "diet": "Varies (Herbivore, Carnivore)"
+    },
+    "boar": {
+        "info": "Wild boars are wild relatives of domestic pigs. They have sharp tusks for digging and defense. Boars are found in forests and are known for their aggressive nature.",
+        "lifespan": "10-14 years",
+        "diet": "Omnivore"
+    },
+    "butterfly": {
+        "info": "Butterflies are insects known for their vibrant, colorful wings. They undergo complete metamorphosis from caterpillar to butterfly.",
+        "lifespan": "1-4 weeks (as butterfly)",
+        "diet": "Herbivore (nectar)"
+    },
+    "cat": {
+        "info": "Cats are domesticated mammals known for their independence and hunting skills. They are popular pets worldwide due to their playful and affectionate nature.",
+        "lifespan": "12-18 years",
+        "diet": "Carnivore"
+    },
+    "chimpanzee": {
+        "info": "Chimpanzees are intelligent primates closely related to humans. They live in social groups and use tools to obtain food.",
+        "lifespan": "40-50 years",
+        "diet": "Omnivore"
+    },
+    "cow": {
+        "info": "Cows are domesticated animals raised for milk, meat, and leather. They are social animals and play a significant role in agriculture.",
+        "lifespan": "15-20 years",
+        "diet": "Herbivore"
+    },
+    "deer": {
+        "info": "Deer are herbivorous mammals with antlers. They are found in forests, grasslands, and wetlands and are known for their agility and speed.",
+        "lifespan": "10-20 years",
+        "diet": "Herbivore"
+    },
+    "dog": {
+        "info": "Dogs are domesticated mammals known for their loyalty and companionship. They serve as pets, working animals, and service animals.",
+        "lifespan": "10-15 years",
+        "diet": "Omnivore"
+    },
+    "donkey": {
+        "info": "Donkeys are domesticated mammals used for transport and farming. They are hardy animals capable of surviving in harsh environments.",
+        "lifespan": "25-40 years",
+        "diet": "Herbivore"
+    },
+    "eagle": {
+        "info": "Eagles are powerful birds of prey known for their sharp vision and hunting skills. They are apex predators and live in various habitats, including mountains and forests.",
+        "lifespan": "20-30 years",
+        "diet": "Carnivore"
+    },
+    "fox": {
+        "info": "Foxes are small to medium-sized mammals known for their cunning nature. They adapt well to urban and wild environments.",
+        "lifespan": "3-6 years",
+        "diet": "Omnivore"
+    },
+    "goat": {
+        "info": "Goats are domesticated animals raised for milk, meat, and fiber. They are agile climbers and can live in mountainous regions.",
+        "lifespan": "15-18 years",
+        "diet": "Herbivore"
+    },
+    "lion": {
+        "info": "Lions are large, powerful predators known as the 'king of the jungle'. They live in prides and are found in Africa and India.",
+        "lifespan": "10-14 years",
+        "diet": "Carnivore"
+    },
+    "mosquito": {
+        "info": "Mosquitoes are small insects known for their ability to transmit diseases. Females feed on blood, while males feed on nectar.",
+        "lifespan": "2-3 weeks",
+        "diet": "Carnivore (females), Herbivore (males)"
+    },
+    "panda": {
+        "info": "Pandas are large bears known for their black-and-white fur. They are native to China and rely on bamboo for food.",
+        "lifespan": "20-30 years",
+        "diet": "Herbivore"
+    },
+    "tiger": {
+        "info": "Tigers are large, solitary predators with distinct orange and black stripes. They are apex predators found in Asia's forests and grasslands.",
+        "lifespan": "10-15 years",
+        "diet": "Carnivore"
+    },
+    "whale": {
+        "info": "Whales are large marine mammals. Some species, like the blue whale, are the largest animals on Earth.",
+        "lifespan": "40-100 years (varies by species)",
+        "diet": "Carnivore (plankton, fish)"
+    },
+    "zebra": {
+        "info": "Zebras are African equines known for their black-and-white stripes. They live in herds and are highly social animals.",
+        "lifespan": "20-30 years",
+        "diet": "Herbivore"
+    }
+}
